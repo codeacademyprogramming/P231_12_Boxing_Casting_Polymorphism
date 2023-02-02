@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\bin\Debug\netcoreapp3.1\Casting.exe
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\bin\Debug\netcoreapp3.1\Casting.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\bin\Debug\netcoreapp3.1\Casting.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\bin\Debug\netcoreapp3.1\Casting.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\bin\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.genruntimeconfig.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\12. 02-02-2023\02022023\Casting\obj\Debug\netcoreapp3.1\Casting.csproj.AssemblyReference.cache

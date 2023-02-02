@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5552ac64-c7dd-4d0d-8a28-f56e20594e1d": {
+      "ProjectGuid": "5552ac64-c7dd-4d0d-8a28-f56e20594e1d",
+      "DisplayName": "Homework",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bde96158-f155-41cf-ae08-fe3863df11e2": {
+      "ProjectGuid": "bde96158-f155-41cf-ae08-fe3863df11e2",
+      "DisplayName": "StoreAppLibrary",
+      "ColorIndex": 1
+    },
+    "a130f53d-b01f-47f2-8d3d-511236b4c817": {
+      "ProjectGuid": "a130f53d-b01f-47f2-8d3d-511236b4c817",
+      "DisplayName": "Lesson",
+      "ColorIndex": 2
+    },
+    "99e1ac69-bd43-42fc-9dbf-faa428dde31a": {
+      "ProjectGuid": "99e1ac69-bd43-42fc-9dbf-faa428dde31a",
+      "DisplayName": "Lesson",
+      "ColorIndex": 3
+    },
+    "79e1566d-7d58-4032-b415-d685b62f1c7b": {
+      "ProjectGuid": "79e1566d-7d58-4032-b415-d685b62f1c7b",
+      "DisplayName": "Casting",
+      "ColorIndex": 4
+    },
+    "0adaed80-301b-4f65-8519-921d48325a72": {
+      "ProjectGuid": "0adaed80-301b-4f65-8519-921d48325a72",
+      "DisplayName": "Tasks",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
